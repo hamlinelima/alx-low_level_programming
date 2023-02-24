@@ -312,3 +312,7 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	close_elf(o);
 	return (0);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4b2412ad3cba3e7a4bab03a7d36c327a5f57e976
